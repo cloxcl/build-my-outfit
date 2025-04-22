@@ -3,7 +3,7 @@
 Importa fotos de tu ropa y deja que la IA te haga un conjunto en base a tus gustos personales.
 
 
-# 👗 Outfit Generator Inteligente
+# 👗 Vestirse es también inteligencia
 
 ¿Te gusta vestir bien, pero con las prisas del día a día crearte un buen outfit es misión imposible? ¿Y si te digo que con subir fotos de tu ropa una única vez, ya no tendrás que romperte más la cabeza
 pensando? ¡Irás guapísimx y gracias a Python!
@@ -32,8 +32,8 @@ Este proyecto escrito íntegramente en **Python** permitirá construir **conjunt
 
 ## ⚙️ Tecnologías utilizadas
 
-- **Python 3.10+** - por el momento, TensorFlow no está soportado en Python 3.12
-- **OpenCV** – procesiamiento de imágenes y extracción de colores
+- **Python 3.10+** – por el momento, TensorFlow no está soportado en Python 3.12
+- **OpenCV** – procesamiento de imágenes y extracción de colores
 - **TensorFlow** – entrenamiento del modelo
 - **Scikit-learn** – para tareas de clasificación
 - **matplotlib** - visualización de paletas de colores
